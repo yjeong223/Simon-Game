@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simon Part 1/1.0.0": {
+        "runtime": {
+          "Simon Part 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simon Part 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

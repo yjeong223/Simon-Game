@@ -1,0 +1,110 @@
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\bin\Debug\net6.0-windows\Simon Game.exe
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\bin\Debug\net6.0-windows\Simon Game.deps.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\bin\Debug\net6.0-windows\Simon Game.runtimeconfig.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\bin\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\bin\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\bin\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon_Part_1.ErrorForm.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon_Part_1.NewPlayer.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon_Part_1.Properties.Resources.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon_Part_1.Simon.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon_Part_1.SimonLogin.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.AssemblyInfo.cs
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon Game.genruntimeconfig.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3\obj\Debug\net6.0-windows\Simon_Part_1.GamerAttemptResult.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\bin\Debug\net6.0-windows\Simon Game.exe
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\bin\Debug\net6.0-windows\Simon Game.deps.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\bin\Debug\net6.0-windows\Simon Game.runtimeconfig.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\bin\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\bin\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\bin\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon_Part_1.ErrorForm.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon_Part_1.GamerAttemptResult.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon_Part_1.NewPlayer.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon_Part_1.Properties.Resources.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon_Part_1.Simon.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon_Part_1.SimonLogin.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.AssemblyInfo.cs
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy\obj\Debug\net6.0-windows\Simon Game.genruntimeconfig.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\bin\Debug\net6.0-windows\Simon Game.exe
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\bin\Debug\net6.0-windows\Simon Game.deps.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\bin\Debug\net6.0-windows\Simon Game.runtimeconfig.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\bin\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\bin\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\bin\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon_Part_1.ErrorForm.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon_Part_1.GamerAttemptResult.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon_Part_1.NewPlayer.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon_Part_1.Properties.Resources.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon_Part_1.Simon.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon_Part_1.SimonLogin.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.AssemblyInfo.cs
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 3 - Copy - Copy\obj\Debug\net6.0-windows\Simon Game.genruntimeconfig.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.exe
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.deps.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.runtimeconfig.json
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.ErrorForm.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.GamerAttemptResult.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.NewPlayer.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.Properties.Resources.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.Simon.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.SimonLogin.resources
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.AssemblyInfo.cs
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.genruntimeconfig.cache
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.exe
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.deps.json
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.runtimeconfig.json
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\bin\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.ErrorForm.resources
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.GamerAttemptResult.resources
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.NewPlayer.resources
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.Properties.Resources.resources
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.Simon.resources
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon_Part_1.SimonLogin.resources
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.AssemblyInfo.cs
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.dll
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\ref\Simon Game.dll
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.pdb
+C:\Users\jeong\source\repos\csci 2\Independent Programs\Program 3_Simon Part 4\obj\Debug\net6.0-windows\Simon Game.genruntimeconfig.cache

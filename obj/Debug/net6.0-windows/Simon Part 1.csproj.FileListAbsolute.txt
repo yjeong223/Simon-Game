@@ -1,0 +1,20 @@
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.csproj.AssemblyReference.cache
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon_Part_1.NewPlayer.resources
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon_Part_1.Properties.Resources.resources
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon_Part_1.Simon.resources
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon_Part_1.SimonLogin.resources
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.AssemblyInfo.cs
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\bin\Debug\net6.0-windows\Simon Part 1.exe
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\bin\Debug\net6.0-windows\Simon Part 1.deps.json
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\bin\Debug\net6.0-windows\Simon Part 1.runtimeconfig.json
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\bin\Debug\net6.0-windows\Simon Part 1.dll
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\bin\Debug\net6.0-windows\ref\Simon Part 1.dll
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\bin\Debug\net6.0-windows\Simon Part 1.pdb
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.dll
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\ref\Simon Part 1.dll
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.pdb
+C:\Users\jeong\source\repos\Independent Programs\Simon Part 1\obj\Debug\net6.0-windows\Simon Part 1.genruntimeconfig.cache
