@@ -1,4 +1,3 @@
-# Simon-Game
 # Overview
 Simon Game in C#, practicing object-oriented programming
 
